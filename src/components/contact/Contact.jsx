@@ -27,7 +27,7 @@ const Contact = () => {
 
 
 
-    <div className="form-container w-[100%] flex ">
+    <div className="form-container  w-[100%] flex ">
 
     <Find/>
     <Form/>
